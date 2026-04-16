@@ -107,7 +107,7 @@ fullstack-ecommerce/
 
 1. Clone the repository:
 ```bash
-git clone git clone https://github.com/your-username/fullstack-ecommerce.git
+git clone https://github.com/ParthDYP/fullstack-ecommerce-react-django-postgres
 ```
 3. Backend Setup
 ```bash
