@@ -100,6 +100,7 @@ fullstack-ecommerce/
   - Detail Page: Dynamic routing using :id to fetch specific product metadata.
   - Cart System: Real-time quantity updates synced via API.
   - Admin Panel: Django-integrated dashboard for inventory management.
+  ![image alt] (https://github.com/ParthDYP/fullstack-ecommerce-react-django-postgres/blob/0674911b6f9703949c851ae43356f205013b4f96/Dashboard.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
